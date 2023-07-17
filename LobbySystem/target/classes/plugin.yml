@@ -1,0 +1,6 @@
+name: LobbySystem
+version: '1.0.0'
+main: de.vertraubarer.lobbysystem.LobbySystem
+api-version: 1.19
+authors: [Vertraubarer]
+description: FarmPvP LobbySystem

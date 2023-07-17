@@ -1,0 +1,8 @@
+name: LobbySystem
+version: '${project.version}'
+main: de.vertraubarer.lobbysystem.LobbySystem
+api-version: 1.19
+authors: [Vertraubarer]
+description: FarmPvP LobbySystem
+commands:
+  fly:
